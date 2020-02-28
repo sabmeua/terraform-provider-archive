@@ -73,6 +73,8 @@ The `source` block supports the following:
 
 * `filename` - (Required) Set this as the filename when declaring a `source`.
 
+* `excludes` - (Optional) A list of files or directories to exclude from the archive.
+
 ## Attributes Reference
 
 The following attributes are exported:
